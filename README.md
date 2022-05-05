@@ -1,4 +1,7 @@
 # DatabaseProject
+## Table of Contents
+* [General Info](#general-information)
+
 ## Overview
 This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. They wanted a relational database that made it easier to track organizaitons using their program, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. 
 ### Insights for the Company
@@ -10,6 +13,8 @@ These automated reports are built from queries and include:
 - Organization reports such as completion percentage and how much money recieved from each customer 
 - Product reports such as how much money recieved for one product vs another
 - Revenue recieved by state
+
+View in [Screenshots](#Screenshots)
 
 ### Tracking Customers <br/>
 The database also allows for the company to easily search and find customers, view or change data such as address, contact information, etc. The database also tracks each organization and is linked to other tables such as Invoices, Site Coordinators, and Residents for each customer.<br/>
