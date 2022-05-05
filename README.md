@@ -2,7 +2,7 @@
 ## Table of Contents
 * [Overview](#Overview)
 * [Screenshots](#Screenshots)
-* [Invoice](#Example-Blank-Invoice)
+* [Invoice](#Example Blank Invoice)
 
 
 
