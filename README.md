@@ -1,11 +1,4 @@
 # DatabaseProject
-## Table of Contents
-* [Overview](#Overview)
-* [Screenshots](#Screenshots)
-* [Invoice](#Example Blank Invoice)
-
-
-
 ## Overview
 This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. They wanted a relational database that made it easier to track organizaitons using their program, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. 
 ### Insights for the Company
