@@ -26,4 +26,20 @@ Reports Screen (Consumer can click on any button and instantly view the report) 
 ![Screenshot 2022-05-05 134740](https://user-images.githubusercontent.com/90923213/167003776-d56b95ec-1e36-4957-a043-fb6f34eebe46.png) <br/>
 Example Report <br/>
 
-![Screenshot 2022-05-05 135241](https://user-images.githubusercontent.com/90923213/167004466-0ef550f2-0145-49de-a773-3889dffc3947.png)
+![Screenshot 2022-05-05 135241](https://user-images.githubusercontent.com/90923213/167004466-0ef550f2-0145-49de-a773-3889dffc3947.png) <br/>
+
+Example Customer Form (can click on Invoice, Coordinator, Residents to view for that customer) <br/>
+![Screenshot 2022-05-05 141550](https://user-images.githubusercontent.com/90923213/167009295-322de63c-1111-4c51-accb-2c2ca00e9e5f.png)<br/>
+
+Example Creating an invoice <br/>
+![Screenshot 2022-05-05 141803](https://user-images.githubusercontent.com/90923213/167009590-a0e5549e-4386-4684-9b58-19bc9bf9a9cd.png)<br/>
+
+Example Blank Invoice <br/>
+![Screenshot 2022-05-05 141942](https://user-images.githubusercontent.com/90923213/167009842-b922e75e-bff7-486d-b865-e06a531fc09d.png)
+
+
+
+
+
+
+
