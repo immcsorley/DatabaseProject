@@ -17,7 +17,7 @@ View in [Screenshots](#Screenshots)
 ### Tracking Customers <br/>
 The database also allows for the company to easily search and find customers, view or change data such as address, contact information, etc. The database also tracks each organization and is linked to other tables such as Invoices, Site Coordinators, and Residents for each customer.<br/>
 ### Invoicing
-I built a form where the user can input the organization they would like to invoice and choose the amount requested along with other details of the sale, and Access will automatically create an invoice by using a template that I made and be ready to email it out to the customer. This is a far quicker process than what the company had been doing in the past. 
+I built a form where the user can input the organization they would like to invoice and choose the amount requested along with other details of the sale, and Access will automatically create an invoice by using a template that I made and be ready to email it out to the customer. This is a far quicker process than what the company had been doing in the past. I also created reports that show outstanding invoices so it is very easy to see who has not paid their invoices yet. 
 
 
 ### Screenshots 
