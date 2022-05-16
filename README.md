@@ -1,10 +1,10 @@
 ## Microsoft Access Database Project for the University of Iowa College of Nursing
 
 ## Overview
-This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. I was challenged with creating a relational database that made it easier to track organizaitons using their program, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. 
+This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. I was challenged with creating a relational database that made it easier to track customers, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. 
 ### Insights for the Company
-This new database allows to better track the data that they already had. Before, it was a very manual process to look through excel in order to gain insights and change data, now, I have automated many reports and it just takes the click of a button to generate reports for the business.<br/>
-These automated reports are built from queries and include: 
+This new database allows to better track the data that they already had. Before, it was a very manual process to look through excel in order to gain insights and change data, now, I have automated many reports and it takes just the click of a button to generate reports for the business.<br/>
+These automated reports are built from queries. A few of the reports include: 
 - Fiscal Sales Report
 - Outstanding Invoices Reports
 - Monthly Sales Reports
@@ -16,7 +16,7 @@ These automated reports are built from queries and include:
 View in [Screenshots](#Screenshots)
 
 ### Tracking Customers <br/>
-The database also allows for the company to easily search and find customers, view or change data such as address, contact information, etc. The database also tracks each organization and is linked to other tables such as Invoices, Site Coordinators, and Residents for each customer.<br/>
+The database also allows for the company to easily search and find customers, view or change data such as contact information, etc. The database also tracks each organization and is linked to other tables such as Invoices, Site Coordinators, and Residents for each customer.<br/>
 ### Invoicing
 I built a form where the user can choose the customer they would like to invoice and input the amount requested along with other details of the sale, and Access will automatically create an invoice by using a template that I made and be ready to email it out to the customer. This is a far quicker process than what the company had been doing in the past. I also created reports that show outstanding invoices information so it is very easy to see who has not paid their invoices yet. 
 
