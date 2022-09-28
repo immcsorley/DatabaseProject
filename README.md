@@ -22,8 +22,8 @@ I built a form where the user can choose the customer they would like to invoice
 
 
 ### Screenshots 
-Main Menu Screen <br/>
-![Screenshot 2022-05-05 134426](https://user-images.githubusercontent.com/90923213/167001343-98debc4d-3569-4208-93af-5c89656da490.png)
+Main Menu Screen (All of the buttons lead to be able to edit/create/delete/add data into whatever table needs it <br/>
+![image](https://user-images.githubusercontent.com/90923213/192850991-c051964e-81fa-4d3d-b1f4-8df03762164a.png)
 
 Reports Screen (Consumer can click on any button and instantly view the report) <br/>
 ![Screenshot 2022-05-05 134740](https://user-images.githubusercontent.com/90923213/167003776-d56b95ec-1e36-4957-a043-fb6f34eebe46.png) <br/>
