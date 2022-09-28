@@ -2,8 +2,14 @@
 
 ## Overview
 This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. I was challenged with creating a relational database that made it easier to track customers, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. 
+
+### Problem Statement
+Before the use of Access to store the data for the company, they had numerous microsoft excel sheets that they used to store data. These sheets did not interact with eachother and it was hard and time consuming to update all of them at one time. It was also a very hard and manual process to report on sales numbers, customers, etc. because it took many complicated formulas in different sheets to come out with an end number. 
+#### Building the database
+I first cleaned the data and preprocessed it so that it was ready to be stored in the database. I made sure all customers and invoices were tied together correctly and that each table had a unique identifier. We had a table for customers, site coordinators, and invoices. I then created the database and tables accordingly and made sure the realationship waas correct between the tables. Next I build custom forms to be able to add/edit the tables easier without having to find every correct row. I made it easy to create a new invoice for a customer and add new customers to the database.
+
 ### Insights for the Company
-This new database allows to better track the data that they already had. Before, it was a very manual process to look through excel in order to gain insights and change data, now, I have automated many reports and it takes just the click of a button to generate reports for the business.<br/>
+After the database was completley set up and running, I was able to use the data to create insights for the company. This new database allows to better track the data that they already had. Before, it was a very manual process to look through excel in order to gain insights and change data, now, I have automated many reports and it takes just the click of a button to generate reports for the business.<br/>
 These automated reports are built from queries. A few of the reports include: 
 - Fiscal Sales Report
 - Outstanding Invoices Reports
@@ -27,9 +33,9 @@ Main Menu Screen (All of the buttons lead to be able to edit/create/delete/add d
 
 Reports Screen (Consumer can click on any button and instantly view the report) <br/>
 ![Screenshot 2022-05-05 134740](https://user-images.githubusercontent.com/90923213/167003776-d56b95ec-1e36-4957-a043-fb6f34eebe46.png) <br/>
-Example Report <br/>
+Example Report (Whiting out $ amount) <br/>
 
-![Screenshot 2022-05-05 135241](https://user-images.githubusercontent.com/90923213/167004466-0ef550f2-0145-49de-a773-3889dffc3947.png) <br/>
+![image](https://user-images.githubusercontent.com/90923213/192851681-26ba92a9-bead-4b45-9e96-3be06be5f8d7.png) <br/>
 
 Example Customer Form (can click on Invoice, Coordinator, Residents to view for that customer) <br/>
 ![Screenshot 2022-05-05 141550](https://user-images.githubusercontent.com/90923213/167009295-322de63c-1111-4c51-accb-2c2ca00e9e5f.png)<br/>
