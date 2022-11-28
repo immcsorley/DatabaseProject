@@ -1,23 +1,24 @@
 ## Microsoft Access Database Project for the University of Iowa College of Nursing
 
 ## Overview
-This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. I was challenged with creating a relational database that made it easier to track customers, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. 
+This is an overview of the Microsoft Access database I built for the University of Iowa's Nursing Residency Program. I was challenged with creating a relational database that made it easier to track customers, sales information, contact information, and be able to easily gain insights for the organization. Over the spring semester in 2022 I learned how to create this database and implement their current data into the database in order to help them analyze and use their data more efficiently. In the end, I was able to cut down over 50% of manual labor hours that were required when doing tasks such as invoicing, reporting, and data collection/entry. 
 
 ### Problem Statement
 Before the use of Access to store the data for the company, they had numerous microsoft excel sheets that they used to store data. These sheets did not interact with eachother and it was hard and time consuming to update all of them at one time. It was also a very hard and manual process to report on sales numbers, customers, etc. because it took many complicated formulas in different sheets to come out with an end number. 
-#### Building the database
-I first cleaned the data and preprocessed it so that it was ready to be stored in the database. I made sure all customers and invoices were tied together correctly and that each table had a unique identifier. We had a table for customers, site coordinators, and invoices. I then created the database and tables accordingly and made sure the realationship waas correct between the tables. Next I build custom forms to be able to add/edit the tables easier without having to find every correct row. I made it easy to create a new invoice for a customer and add new customers to the database.
+### Building the database
+I first cleaned the data and preprocessed it so that it was ready to be stored in the database. I made sure all customers and invoices were tied together correctly and that each table had a unique identifier. We had a table for customers, site coordinators, invoices, and residents. I then created the database and tables accordingly and made sure the realationship was correct between the tables. Next I build custom forms to be able to add/edit the tables easier without having to find every correct row. I made it easy to create a new invoice for a customer and add new customers to the database.
 
 ### Insights for the Company
 After the database was completley set up and running, I was able to use the data to create insights for the company. This new database allows to better track the data that they already had. Before, it was a very manual process to look through excel in order to gain insights and change data, now, I have automated many reports and it takes just the click of a button to generate reports for the business.<br/>
 These automated reports are built from queries. A few of the reports include: 
 - Fiscal Sales Report
-- Outstanding Invoices Reports
+- Outstanding Invoices and Amount Outstanding
 - Monthly Sales Reports
 - Sales and number of residents by organization (customer)
 - Organization reports such as completion percentage and how much money recieved from each customer 
 - Product reports such as how much money recieved for one product vs another
 - Revenue recieved by state
+- New Organizations added in the current year
 
 View in [Screenshots](#Screenshots)
 
